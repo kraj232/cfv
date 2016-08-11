@@ -1,0 +1,3 @@
+c Drive mydocuments,desktop files moved to D Drive (new folder named  CDrive)
+
+Mydestkop from c Drive moved to E Drive
